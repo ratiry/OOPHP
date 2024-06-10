@@ -1,0 +1,16 @@
+{
+    "name": "snakeoil/vendor",
+    "description": "trinkets",
+    "type": "project",
+    "authors": [
+        {
+            "name": "gogotron"
+        }
+    ],
+    "require": {},
+    "autoload":{
+      "psr-4":{
+        "App\\":"app/"
+      }
+    }
+}
